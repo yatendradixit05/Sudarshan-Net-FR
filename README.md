@@ -191,6 +191,11 @@ This tool is intended for use **only on networks you own or have explicit writte
 
 ---
 
-## 👤 Author
+## 👤 Built by
 
-**Yatendra Dixit** — Built as a personal cybersecurity project to bridge the gap between high-level traffic visualization and low-level packet forensics.
+**Yatendra Dixit**
+Cybersecurity enthusiast
+
+*This Project is built to bridge the gap between high-level traffic visualization and low-level packet forensics.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yatendra%20Dixit-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yatendradixit05)
