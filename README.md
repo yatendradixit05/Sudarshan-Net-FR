@@ -194,8 +194,8 @@ This tool is intended for use **only on networks you own or have explicit writte
 ## 👤 Built by
 
 **Yatendra Dixit**
-*B.Tech (Cyber Security) | Cybersecurity Enthusiast*
+_B.Tech (Cyber Security) | Cybersecurity Enthusiast_
 
-*This Project is built to bridge the gap between high-level traffic visualization and low-level packet forensics.*
+This Project is built to bridge the gap between high-level traffic visualization and low-level packet forensics.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yatendra%20Dixit-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yatendradixit05)
