@@ -194,7 +194,7 @@ This tool is intended for use **only on networks you own or have explicit writte
 ## 👤 Built by
 
 **Yatendra Dixit**
-Cybersecurity enthusiast
+*B.Tech(Cyber Security) | Cybersecurity Enthusiast*
 
 *This Project is built to bridge the gap between high-level traffic visualization and low-level packet forensics.*
 
