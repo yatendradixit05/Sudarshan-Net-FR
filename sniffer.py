@@ -63,7 +63,7 @@ def process_packet(packet):
 recorder_thread = Thread(target=save_chunk, daemon=True)
 recorder_thread.start()
 
-print(f"--- Flight Recorder: ACTIVE ---")
+print(f"--- SUDARSHAN NET-FR: Forensic Engine Active ---")
 print(f"Logging metadata to: {METADATA_FILE}")
 print(f"Recording PCAPs to: /{STORAGE_DIR}")
 

@@ -1,4 +1,4 @@
-# 🛡️ Cyber Sudarshan: Network Flight Recorder
+# 🛡️ Sudarshan Network Flight Recorder
 
 > *"A Black Box for your computer network."*
 
@@ -10,7 +10,7 @@ A full-stack **Network Detection and Response (NDR)** tool that turns raw networ
 
 ## 📌 What Is This?
 
-Just like an airplane's flight recorder captures everything before a crash, **Cyber Sudarshan** records every digital conversation on your network — 24/7 — so you always have evidence ready when something goes wrong.
+Just like an airplane's flight recorder captures everything before a crash, **Sudarshan Net-FR** records every digital conversation on your network — 24/7 — so you always have evidence ready when something goes wrong.
 
 It solves the core problem with tools like Wireshark: **Wireshark crashes after hours of use** because it stores everything in RAM. This tool uses a rolling buffer system so you always have the *last hour* of raw packet evidence on disk, without ever running out of storage.
 
@@ -161,9 +161,9 @@ Open **http://localhost:3000** in your browser. The live graph will begin popula
 
 ---
 
-## 🔬 Cyber Sudarshan vs Wireshark
+## 🔬 Sudarshan Net-FR vs Wireshark
 
-| | Wireshark | Cyber Sudarshan |
+| | Wireshark | Sudarshan Net-FR |
 |---|---|---|
 | **Long-term monitoring** | ❌ Crashes — stores all data in RAM | ✅ Rolling buffer, auto disk management |
 | **Storage management** | ❌ Manual | ✅ Automatic — oldest files self-delete |
@@ -171,7 +171,7 @@ Open **http://localhost:3000** in your browser. The live graph will begin popula
 | **At-a-glance analysis** | ❌ Raw packet dump, requires expertise | ✅ Live graph + metadata table |
 | **Deep forensic analysis** | ✅ Best-in-class | ✅ Export PCAP → open in Wireshark |
 
-*Both tools are complementary. Cyber Sudarshan handles long-term detection; Wireshark handles deep forensic analysis.*
+*Both tools are complementary. Sudarshan Net-FR handles long-term detection; Wireshark handles deep forensic analysis.*
 
 ![Wireshark Analysis](assets/screenshots/05_wireshark_analysis.png)
 

@@ -27,9 +27,9 @@ function App() {
 
   return (
     <div style={{ padding: '40px', backgroundColor: '#0a0a0a', color: '#00ff41', minHeight: '100vh', fontFamily: 'monospace' }}>
-      <header style={{ borderBottom: '2px solid #00ff41', marginBottom: '20px', display: 'flex', justifyContent: 'space-between' }}>
+      <header style={{ borderBottom: '2px solidrgb(255, 174, 0)', marginBottom: '20px', display: 'flex', justifyContent: 'space-between' }}>
         <div>
-          <h1>🛰️ CYBER SUDARSHAN | NETWORK FLIGHT RECORDER</h1>
+          <h1>🛰️ SUDARSHAN NETWORK FLIGHT RECORDER</h1>
           <p>Live Forensic Data Capture Engine</p>
         </div>
         <div style={{ textAlign: 'right' }}>
